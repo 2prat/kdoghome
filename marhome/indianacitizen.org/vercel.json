@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/kai-trump-mourns-pet-dog-death",
+      "destination": "https://kdogarticle.vercel.app/"
+    }
+  ]
+}
